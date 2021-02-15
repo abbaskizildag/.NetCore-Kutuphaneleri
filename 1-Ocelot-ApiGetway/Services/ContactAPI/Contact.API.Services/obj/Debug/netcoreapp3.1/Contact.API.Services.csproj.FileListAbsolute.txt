@@ -1,0 +1,14 @@
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\ContactAPI\Contact.API.Services\bin\Debug\netcoreapp3.1\Contact.API.Services.deps.json
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\ContactAPI\Contact.API.Services\bin\Debug\netcoreapp3.1\Contact.API.Services.dll
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\ContactAPI\Contact.API.Services\bin\Debug\netcoreapp3.1\Contact.API.Services.pdb
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\ContactAPI\Contact.API.Services\bin\Debug\netcoreapp3.1\Contact.API.Infrastructure.dll
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\ContactAPI\Contact.API.Services\bin\Debug\netcoreapp3.1\Contact.API.Models.dll
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\ContactAPI\Contact.API.Services\bin\Debug\netcoreapp3.1\Contact.API.Infrastructure.pdb
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\ContactAPI\Contact.API.Services\bin\Debug\netcoreapp3.1\Contact.API.Models.pdb
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\ContactAPI\Contact.API.Services\obj\Debug\netcoreapp3.1\Contact.API.Services.csprojAssemblyReference.cache
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\ContactAPI\Contact.API.Services\obj\Debug\netcoreapp3.1\Contact.API.Services.AssemblyInfoInputs.cache
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\ContactAPI\Contact.API.Services\obj\Debug\netcoreapp3.1\Contact.API.Services.AssemblyInfo.cs
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\ContactAPI\Contact.API.Services\obj\Debug\netcoreapp3.1\Contact.API.Services.csproj.CoreCompileInputs.cache
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\ContactAPI\Contact.API.Services\obj\Debug\netcoreapp3.1\Contact.API.Services.csproj.CopyComplete
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\ContactAPI\Contact.API.Services\obj\Debug\netcoreapp3.1\Contact.API.Services.dll
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\ContactAPI\Contact.API.Services\obj\Debug\netcoreapp3.1\Contact.API.Services.pdb

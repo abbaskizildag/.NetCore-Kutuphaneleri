@@ -1,0 +1,14 @@
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\RestAPI\Reservation.API.Services\bin\Debug\netcoreapp3.1\Reservation.API.Services.deps.json
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\RestAPI\Reservation.API.Services\bin\Debug\netcoreapp3.1\Reservation.API.Services.dll
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\RestAPI\Reservation.API.Services\bin\Debug\netcoreapp3.1\Reservation.API.Services.pdb
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\RestAPI\Reservation.API.Services\bin\Debug\netcoreapp3.1\Reservation.API.Infrastructure.dll
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\RestAPI\Reservation.API.Services\bin\Debug\netcoreapp3.1\Reservation.API.Models.dll
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\RestAPI\Reservation.API.Services\bin\Debug\netcoreapp3.1\Reservation.API.Infrastructure.pdb
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\RestAPI\Reservation.API.Services\bin\Debug\netcoreapp3.1\Reservation.API.Models.pdb
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\RestAPI\Reservation.API.Services\obj\Debug\netcoreapp3.1\Reservation.API.Services.csprojAssemblyReference.cache
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\RestAPI\Reservation.API.Services\obj\Debug\netcoreapp3.1\Reservation.API.Services.AssemblyInfoInputs.cache
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\RestAPI\Reservation.API.Services\obj\Debug\netcoreapp3.1\Reservation.API.Services.AssemblyInfo.cs
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\RestAPI\Reservation.API.Services\obj\Debug\netcoreapp3.1\Reservation.API.Services.csproj.CoreCompileInputs.cache
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\RestAPI\Reservation.API.Services\obj\Debug\netcoreapp3.1\Reservation.API.Services.csproj.CopyComplete
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\RestAPI\Reservation.API.Services\obj\Debug\netcoreapp3.1\Reservation.API.Services.dll
+C:\Users\ali.kizildag\source\repos\BireyselCalisma\Microservices\Services\RestAPI\Reservation.API.Services\obj\Debug\netcoreapp3.1\Reservation.API.Services.pdb
